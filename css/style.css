@@ -1,0 +1,25 @@
+.cart{
+    width: 280px;
+    background-color: orange;
+    border-radius: 10px;
+}
+.cart img{
+    width: 100%;
+    border-radius: 10px 10px 0px 0px;
+}
+.cart h3{
+    text-align: center;
+}
+.cart p{
+    text-align: justify;
+    padding: 10px;
+}
+.cart button{
+    padding: 10px;
+    width: 100%;
+    color: #fff;
+    background-color: #333;
+    border: none;
+    border-radius: 0px 0px 10px 10px;
+    cursor: pointer;
+}
